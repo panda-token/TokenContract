@@ -12,4 +12,4 @@ https://app.uniswap.org/#/swap?outputCurrency=0xd8164b8d21d2e97484de89bfff787d79
 
 **Website:**
 
-http://www.pandatoken.xyz/
+https://pandatoken.eu.org/
